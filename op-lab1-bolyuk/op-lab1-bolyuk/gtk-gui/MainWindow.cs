@@ -13,6 +13,8 @@ public partial class MainWindow
 
 	private global::Gtk.Button menu5but;
 
+	private global::Gtk.Button exitbut;
+
 	protected virtual void Build()
 	{
 		global::Stetic.Gui.Initialize(this);
@@ -80,12 +82,27 @@ public partial class MainWindow
 		w8.Position = 3;
 		w8.Expand = false;
 		w8.Fill = false;
+		// Container child hbox1.Gtk.Box+BoxChild
+		this.exitbut = new global::Gtk.Button();
+		this.exitbut.CanFocus = true;
+		this.exitbut.Name = "exitbut";
+		this.exitbut.UseUnderline = true;
+		this.exitbut.Label = global::Mono.Unix.Catalog.GetString("Вихід");
+		global::Gtk.Image w9 = new global::Gtk.Image();
+		w9.Pixbuf = global::Stetic.IconLoader.LoadIcon(this, "gtk-close", global::Gtk.IconSize.Menu);
+		this.exitbut.Image = w9;
+		this.hbox1.Add(this.exitbut);
+		global::Gtk.Box.BoxChild w10 = ((global::Gtk.Box.BoxChild)(this.hbox1[this.exitbut]));
+		w10.PackType = ((global::Gtk.PackType)(1));
+		w10.Position = 4;
+		w10.Expand = false;
+		w10.Fill = false;
 		this.Add(this.hbox1);
 		if ((this.Child != null))
 		{
 			this.Child.ShowAll();
 		}
-		this.DefaultWidth = 441;
+		this.DefaultWidth = 492;
 		this.DefaultHeight = 39;
 		this.Show();
 	}

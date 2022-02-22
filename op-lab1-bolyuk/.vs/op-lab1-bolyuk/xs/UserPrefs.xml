@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{3630F62A-9C7B-474C-B210-7CFB8E8105EB}|Default">
   <MonoDevelop.Ide.ItemProperties.op-lab1-bolyuk PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="op-lab1-bolyuk/DBWindow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="op-lab1-bolyuk/MainWindow.cs">
     <Files>
-      <File FileName="op-lab1-bolyuk/DB.cs" Line="70" Column="31" />
-      <File FileName="op-lab1-bolyuk/MainWindow.cs" Line="13" Column="31" />
-      <File FileName="op-lab1-bolyuk/СWindow.cs" Line="17" Column="20" />
+      <File FileName="op-lab1-bolyuk/DB.cs" Line="87" Column="10" />
+      <File FileName="op-lab1-bolyuk/СWindow.cs" Line="91" Column="101" />
       <File FileName="op-lab1-bolyuk/AWindow.cs" Line="10" Column="55" />
-      <File FileName="op-lab1-bolyuk/DBWindow.cs" Line="26" Column="14" />
+      <File FileName="op-lab1-bolyuk/DBWindow.cs" Line="90" Column="32" />
+      <File FileName="op-lab1-bolyuk/MainWindow.cs" Line="13" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,8 +14,7 @@
           <Node name="op-lab1-bolyuk" expanded="True">
             <Node name="op-lab1-bolyuk" expanded="True">
               <Node name="UserInterface" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="DBWindow.cs" selected="True" />
+              <Node name="MainWindow.cs" selected="True" />
             </Node>
           </Node>
         </State>
