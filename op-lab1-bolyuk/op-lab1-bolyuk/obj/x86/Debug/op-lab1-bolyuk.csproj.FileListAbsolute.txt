@@ -1,0 +1,6 @@
+/home/danya/Projects/op-lab1-bolyuk/op-lab1-bolyuk/bin/Debug/op-lab1-bolyuk.exe
+/home/danya/Projects/op-lab1-bolyuk/op-lab1-bolyuk/bin/Debug/op-lab1-bolyuk.pdb
+/home/danya/Projects/op-lab1-bolyuk/op-lab1-bolyuk/obj/x86/Debug/op-lab1-bolyuk.csprojAssemblyReference.cache
+/home/danya/Projects/op-lab1-bolyuk/op-lab1-bolyuk/obj/x86/Debug/op-lab1-bolyuk.csproj.CoreCompileInputs.cache
+/home/danya/Projects/op-lab1-bolyuk/op-lab1-bolyuk/obj/x86/Debug/op-lab1-bolyuk.exe
+/home/danya/Projects/op-lab1-bolyuk/op-lab1-bolyuk/obj/x86/Debug/op-lab1-bolyuk.pdb
